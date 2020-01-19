@@ -1,1 +1,2 @@
-Just for test
+# gomodule
+go module示例
